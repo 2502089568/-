@@ -85,6 +85,7 @@ public class ex006 {
 				}
 			}
 		}
+		
 		for(int i:max) {
 			System.out.print(i+" ");
 		}
