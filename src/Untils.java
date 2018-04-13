@@ -30,4 +30,10 @@ public class Untils {
 			a[i][0]=0;
 		}
 	}
+	
+	public static void initArr(int[] a) {
+		for(int i=0;i<a.length;i++) {
+			a[i]=0;
+		}
+	}
 }
